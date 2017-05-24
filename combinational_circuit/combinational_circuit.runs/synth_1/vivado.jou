@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2017.1 (64-bit)
+# SW Build 1846317 on Fri Apr 14 18:54:47 MDT 2017
+# IP Build 1846188 on Fri Apr 14 20:52:08 MDT 2017
+# Start of session at: Tue May 23 04:05:49 2017
+# Process ID: 16338
+# Current directory: /media/makerspace/makerspace_hd/VivadoProjects/combinational_circuit/combinational_circuit.runs/synth_1
+# Command line: vivado -log comb.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source comb.tcl
+# Log file: /media/makerspace/makerspace_hd/VivadoProjects/combinational_circuit/combinational_circuit.runs/synth_1/comb.vds
+# Journal file: /media/makerspace/makerspace_hd/VivadoProjects/combinational_circuit/combinational_circuit.runs/synth_1/vivado.jou
+#-----------------------------------------------------------
+source comb.tcl -notrace

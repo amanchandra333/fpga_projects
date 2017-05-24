@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2017.1 (64-bit)
+# SW Build 1846317 on Fri Apr 14 18:54:47 MDT 2017
+# IP Build 1846188 on Fri Apr 14 20:52:08 MDT 2017
+# Start of session at: Tue May 23 01:29:38 2017
+# Process ID: 7455
+# Current directory: /media/makerspace/makerspace_hd/VivadoProjects/led_sequence/led_sequence.runs/impl_1
+# Command line: vivado -log led_sequence.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source led_sequence.tcl -notrace
+# Log file: /media/makerspace/makerspace_hd/VivadoProjects/led_sequence/led_sequence.runs/impl_1/led_sequence.vdi
+# Journal file: /media/makerspace/makerspace_hd/VivadoProjects/led_sequence/led_sequence.runs/impl_1/vivado.jou
+#-----------------------------------------------------------
+source led_sequence.tcl -notrace

@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "/media/makerspace/makerspace_hd/VivadoProjects/combinational_circuit/combinational_circuit.srcs/sources_1/new/comb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity comb
+INFO: [VRFC 10-163] Analyzing VHDL file "/media/makerspace/makerspace_hd/VivadoProjects/combinational_circuit/combinational_circuit.srcs/sim_1/new/com_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity com_tb

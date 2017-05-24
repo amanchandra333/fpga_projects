@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2017.1 (64-bit)
+# SW Build 1846317 on Fri Apr 14 18:54:47 MDT 2017
+# IP Build 1846188 on Fri Apr 14 20:52:08 MDT 2017
+# Start of session at: Tue May 23 02:18:04 2017
+# Process ID: 9999
+# Current directory: /media/makerspace/makerspace_hd/VivadoProjects/helloworld/helloworld.runs/impl_1
+# Command line: vivado -log usart_wrapper.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source usart_wrapper.tcl -notrace
+# Log file: /media/makerspace/makerspace_hd/VivadoProjects/helloworld/helloworld.runs/impl_1/usart_wrapper.vdi
+# Journal file: /media/makerspace/makerspace_hd/VivadoProjects/helloworld/helloworld.runs/impl_1/vivado.jou
+#-----------------------------------------------------------
+source usart_wrapper.tcl -notrace

@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2017.1 (64-bit)
+# SW Build 1846317 on Fri Apr 14 18:54:47 MDT 2017
+# IP Build 1846188 on Fri Apr 14 20:52:08 MDT 2017
+# Start of session at: Tue May 23 02:13:19 2017
+# Process ID: 9167
+# Current directory: /media/makerspace/makerspace_hd/VivadoProjects/helloworld/helloworld.runs/usart_ilmb_v10_0_synth_1
+# Command line: vivado -log usart_ilmb_v10_0.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source usart_ilmb_v10_0.tcl
+# Log file: /media/makerspace/makerspace_hd/VivadoProjects/helloworld/helloworld.runs/usart_ilmb_v10_0_synth_1/usart_ilmb_v10_0.vds
+# Journal file: /media/makerspace/makerspace_hd/VivadoProjects/helloworld/helloworld.runs/usart_ilmb_v10_0_synth_1/vivado.jou
+#-----------------------------------------------------------
+source usart_ilmb_v10_0.tcl -notrace
+CRITICAL WARNING: [Board 49-56] Problem parsing board file - /media/makerspace/makerspace_hd/Xilinx/Vivado/2017.1/data/boards/board_files/arty-s7-50/B.0/board.xml
+INFO: [IP_Flow 19-4838] Using cached IP synthesis design for IP usart_ilmb_v10_0, cache-ID = 7c05b2782879cfd7.

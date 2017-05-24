@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2017.1 (64-bit)
+# SW Build 1846317 on Fri Apr 14 18:54:47 MDT 2017
+# 
+# Start of session at: Tue May 23 02:50:25 2017
+# Process ID: 13840
+# Current directory: /media/makerspace/makerspace_hd/VivadoProjects/helloworld/helloworld.sdk/webtalk
+# Command line: wbtcv -mode batch -source sdk_webtalk.tcl
+# Log file: /media/makerspace/makerspace_hd/VivadoProjects/helloworld/helloworld.sdk/webtalk/webtalk.log
+# Journal file: /media/makerspace/makerspace_hd/VivadoProjects/helloworld/helloworld.sdk/webtalk/webtalk.jou
+#-----------------------------------------------------------
+source sdk_webtalk.tcl

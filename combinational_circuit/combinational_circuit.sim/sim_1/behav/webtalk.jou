@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2017.1 (64-bit)
+# SW Build 1846317 on Fri Apr 14 18:54:47 MDT 2017
+# IP Build 1846188 on Fri Apr 14 20:52:08 MDT 2017
+# Start of session at: Tue May 23 04:59:19 2017
+# Process ID: 20572
+# Current directory: /media/makerspace/makerspace_hd/VivadoProjects/combinational_circuit/combinational_circuit.sim/sim_1/behav
+# Command line: wbtcv -mode batch -source /media/makerspace/makerspace_hd/VivadoProjects/combinational_circuit/combinational_circuit.sim/sim_1/behav/xsim.dir/com_tb_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: /media/makerspace/makerspace_hd/VivadoProjects/combinational_circuit/combinational_circuit.sim/sim_1/behav/webtalk.log
+# Journal file: /media/makerspace/makerspace_hd/VivadoProjects/combinational_circuit/combinational_circuit.sim/sim_1/behav/webtalk.jou
+#-----------------------------------------------------------
+source /media/makerspace/makerspace_hd/VivadoProjects/combinational_circuit/combinational_circuit.sim/sim_1/behav/xsim.dir/com_tb_behav/webtalk/xsim_webtalk.tcl -notrace

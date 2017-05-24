@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2017.1 (64-bit)
+# SW Build 1846317 on Fri Apr 14 18:54:47 MDT 2017
+# IP Build 1846188 on Fri Apr 14 20:52:08 MDT 2017
+# Start of session at: Tue May 23 02:08:09 2017
+# Process ID: 8636
+# Current directory: /media/makerspace/makerspace_hd/VivadoProjects/helloworld/helloworld.runs/usart_axi_smc_0_synth_1
+# Command line: vivado -log usart_axi_smc_0.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source usart_axi_smc_0.tcl
+# Log file: /media/makerspace/makerspace_hd/VivadoProjects/helloworld/helloworld.runs/usart_axi_smc_0_synth_1/usart_axi_smc_0.vds
+# Journal file: /media/makerspace/makerspace_hd/VivadoProjects/helloworld/helloworld.runs/usart_axi_smc_0_synth_1/vivado.jou
+#-----------------------------------------------------------
+source usart_axi_smc_0.tcl -notrace
